@@ -17,6 +17,6 @@ Ask for **paper** by typing the following in the browser and hitting enter: **lo
 
 Tell the server ***you know nodejs** by typing the following in the browser and hitting enter: **localhost:3000/iknownodejs**
 
-The server is a little **cheeky**, but **that's all we know for now**. ;O)
+The server is a little **cheeky**, but **that's all we know for now**. Goodluck with having a meaningful conversation. ;O)
 
 Thanks for stopping by.
