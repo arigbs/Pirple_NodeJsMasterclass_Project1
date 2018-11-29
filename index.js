@@ -110,7 +110,7 @@ handlers.hello = function(data,callback){
     //Callback a http status code, and a payload object
     var response = {
         "You said": "Hello",
-        "Computer says": "Hello Human"
+        "Server says": "Hello Human"
     };    
     callback(200, response);
 };
@@ -119,7 +119,7 @@ handlers.hello = function(data,callback){
 handlers.ping = function(data,callback){
     var response = {
         "You said": "Ping",
-        "Computer says": "Yeah, whatever."
+        "Server says": "Yeah, whatever."
     };
     callback(200, response);
 };
@@ -128,7 +128,7 @@ handlers.ping = function(data,callback){
 handlers.paper = function(data,callback){
     var response = {
         "You said": "Paper",
-        "Computer says": "Scissors."
+        "Server says": "Scissors."
     };
     callback(200, response);
 };
@@ -137,7 +137,7 @@ handlers.paper = function(data,callback){
 handlers.iknownodejs = function(data,callback){
     var response = {
         "You said": "I know nodejs",
-        "Computer says": "Congratulations, we will now move you up to Jedi level 8."
+        "Server says": "Congratulations, we will now move you up to Jedi level 8."
     };
     callback(200, response);
 };
